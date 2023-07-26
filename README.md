@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Takeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeshi-mi)](https://github.com/takeshi-mi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-mi)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-mi&layout=compact)
 
 
