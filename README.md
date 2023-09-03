@@ -29,8 +29,8 @@ My name is Taleshi Miura, and I am a student of Analysis and Systems Development
 Here are some of the projects I've been working on:
 
 - [Jaguaras Band web site](https://takeshi-mi.github.io/site-jaguaras/): A website for my band, where I am the guitarist. 
-- [TK News](link_to_project_2): A mobile app for publish news, developed with Kotlin and connected at Firebase.
-- [SOMA plataform](link_to_project_3): A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling,
+- [TK News](https://github.com/Takeshi-mi/TK-News-App-de-Noticias): A mobile app for publish news, developed with Kotlin and connected at Firebase.
+- [SOMA plataform](https://github.com/Takeshi-mi/Plataforma-SOMA): A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling,
 
 You can explore more projects on my profile and check out the source code, contribute, or provide feedback.
 
