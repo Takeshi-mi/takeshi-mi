@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Takeshi-mi/takeshi-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![github banner](https://github.com/Takeshi-mi/takeshi-mi/assets/101356765/702678a3-0a04-484d-a178-d216eb5dcba7)
 
-
+### Hi there 👋
 My name is Taleshi Miura, and I am a student of Analysis and Systems Development at the Federal Institute of Goiás. This is my GitHub space where I share projects, code, and learnings related to my academic and professional journey.
 
 ## About Me
