@@ -31,7 +31,7 @@ Here are some of the projects I've been working on:
 - [Jaguaras Band web site](https://takeshi-mi.github.io/site-jaguaras/): A website for my band, where I am the guitarist. 🎸
 - [TK News](https://github.com/Takeshi-mi/TK-News-App-de-Noticias): A mobile app for publish news, developed with Kotlin and connected at Firebase. 📱
 - [SOMA plataform](https://github.com/Takeshi-mi/Plataforma-SOMA): A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling. ♻
-
+- [Mobilidade Urbana App](https://github.com/Takeshi-mi/AppDeMobilidadeUrbana): A project to learn concepts about OOA (object – Oriented Analysis).
 You can explore more projects on my profile and check out the source code, contribute, or provide feedback.
 
 ## Skills
