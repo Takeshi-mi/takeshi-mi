@@ -27,7 +27,7 @@ My name is Takeshi Miura, and I am a student of Analysis and Systems Development
 
 ## Projects
 Here are some of the projects I've been working on:
-
+- [ChatWizard web site](https://takeshi-mi.github.io/ChatWizard-Site/): A website to promote my chatbot business. It began as a freelance, and now is a baby startup. 🤖🚀
 - [Jaguaras Band web site](https://takeshi-mi.github.io/site-jaguaras/): A website for my band, where I am the guitarist. 🎸
 - [TK News](https://github.com/Takeshi-mi/TK-News-App-de-Noticias): A mobile app for publish news, developed with Kotlin and connected at Firebase. 📱
 - [SOMA plataform](https://github.com/Takeshi-mi/Plataforma-SOMA): A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling. ♻
