@@ -45,9 +45,9 @@ You can explore more projects on my profile and check out the source code, contr
 - Other skills: Leadership, Organization, Project Management (Kanban), Team Collaboration, Git Version Control, Intermediate-level English (B2).
 
 ## Connect with me:
-- LinkedIn: <a href="www.linkedin.com/in/e-takeshimiura" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> [https://www.linkedin.com/in/e-takeshimiura/](https://www.linkedin.com/in/e-takeshimiura/)
-- Youtube: <a href="https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> [https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg](https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg)
-- Email: ✉️ e.takeshi.miura@gmail.com 
+-  <a href="www.linkedin.com/in/e-takeshimiura" target="blank"><img align="center" src="https://www.svgrepo.com/show/205292/linkedin.svg" alt="" height="30" width="40" /></a> LinkedIn: [https://www.linkedin.com/in/e-takeshimiura/](https://www.linkedin.com/in/e-takeshimiura/)
+-  <a href="https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg" target="blank"><img align="center" src="https://www.svgrepo.com/show/205306/youtube.svg" alt="" height="30" width="40" /></a> Youtube: [https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg](https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg)
+-  <img align='center' src="https://www.svgrepo.com/show/243092/gmail.svg" alt="gmal-icon" height="30" width="40"/> Email:&nbsp;&nbsp;&nbsp;&nbsp; e.takeshi.miura@gmail.com 
 
 Feel free to explore my repositories, ask questions, or get in touch with me for any collaboration or opportunities. I'm always eager to learn and collaborate with fellow technology enthusiasts.
 
