@@ -38,12 +38,12 @@ You can explore more projects on my profile and check out the source code, contr
 ## Skills
 [![Takeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeshi-mi)](https://github.com/takeshi-mi/github-readme-stats) 
 
-- Programming Languages: Java, Kotlin, Python
+- Programming Languages: PHP, Java, Kotlin, Python
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-mi&layout=compact)
-- Frameworks and Libraries: Android JetPack, Java Swing, Firebase
+- Frameworks and Libraries: Laravel, Bootstrap, Android JetPack, Firebase
 - Database: PostgresSQL, MySQL, Firebase
-- Other skills: Leadership, Organization, Project Management (Kanban), Team Collaboration, Git Version Control, Intermediate-level English (B2).
+- Other skills: Docker, Leadership, Organization, Project Management (Kanban), Team Collaboration, Git Version Control, Intermediate-level English (B2).
 
 ## Connect with me:
 -  <a href="www.linkedin.com/in/e-takeshimiura" target="blank"><img align="center" src="https://www.svgrepo.com/show/205292/linkedin.svg" alt="" height="30" width="40" /></a> LinkedIn: [https://www.linkedin.com/in/e-takeshimiura/](https://www.linkedin.com/in/e-takeshimiura/)
