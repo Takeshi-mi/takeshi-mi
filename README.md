@@ -27,10 +27,10 @@ My name is Takeshi Miura, and I am a student of Analysis and Systems Development
 
 ## Projects
 Here are some of the projects I've been working on:
-- [Mage chatbots web Site](https://magechatbots.vercel.app/): A website to promote my chatbot business. It began as a freelance, and now is a baby startup. 🤖🚀
-- [Jaguaras Band web site](https://takeshi-mi.github.io/site-jaguaras/): A website for my band, where I am the guitarist. 🎸
-- [TK News](https://github.com/Takeshi-mi/TK-News-App-de-Noticias): A mobile app for publish news, developed with Kotlin and connected at Firebase. 📱
-- [SOMA plataform](https://github.com/Takeshi-mi/Plataforma-SOMA): A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling. ♻
+- [Mage chatbots web Site](https://magechatbots.vercel.app/){:target="_blank"}: A website to promote my chatbot business. It began as a freelance, and now is a baby startup. 🤖🚀
+- [Jaguaras Band web site](https://takeshi-mi.github.io/site-jaguaras/){:target="_blank"}: A website for my band, where I am the guitarist. 🎸
+- [TK News](https://github.com/Takeshi-mi/TK-News-App-de-Noticias){:target="_blank"}: A mobile app for publish news, developed with Kotlin and connected at Firebase. 📱
+- [SOMA plataform](https://github.com/Takeshi-mi/Plataforma-SOMA){:target="_blank"}: A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling. ♻
 - [Mobilidade Urbana App](https://github.com/Takeshi-mi/AppDeMobilidadeUrbana): A project to learn concepts about OOA (object – Oriented Analysis).
 You can explore more projects on my profile and check out the source code, contribute, or provide feedback.
 
