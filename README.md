@@ -50,7 +50,7 @@ You can explore more projects on my profile and check out the source code, contr
 -  <a href="https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg" target="blank"><img align="center" src="https://www.svgrepo.com/show/205306/youtube.svg" alt="" height="30" width="40" /></a> Youtube: [https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg](https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg)
 -  <img align='center' src="https://www.svgrepo.com/show/243092/gmail.svg" alt="gmal-icon" height="30" width="40"/> Email:&nbsp;&nbsp;&nbsp;&nbsp; e.takeshi.miura@gmail.com 
 
-- <a href="https://gitlab.com/e.takeshi.miura" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/349377/gitlab.svg"  height="30" width="40" /></a> GitLab:
+- <a href="https://gitlab.com/e.takeshi.miura" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/349377/gitlab.svg"  height="30" width="40" /></a> GitLab: [https://www.svgrepo.com/show/349377/gitlab.svg](https://www.svgrepo.com/show/349377/gitlab.svg)
   
     Feel free to explore my repositories, ask questions, or get in touch with me for any collaboration or opportunities. I'm always eager to learn and collaborate with fellow technology enthusiasts.
 
