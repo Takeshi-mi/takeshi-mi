@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github banner](https://github.com/Takeshi-mi/takeshi-mi/assets/101356765/702678a3-0a04-484d-a178-d216eb5dcba7)
+![LinkedIn Banner](https://github.com/user-attachments/assets/acc3affd-57c6-4151-829e-18a2ec93f6f2)
 
 ### Hi there 👋
 My name is Takeshi Miura, and I am a student of Analysis and Systems Development at the Federal Institute of Goiás. This is my GitHub space where I share projects, code, and learnings related to my academic and professional journey.
