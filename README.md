@@ -27,7 +27,7 @@ My name is Takeshi Miura, and I am a student of Analysis and Systems Development
 
 ## Projects
 Here are some of the projects I've been working on:
-- <a href="https://github.com/Takeshi-mi/kitty-cats-ecommerce" target="_blank">Kitty Cats</a>E-commerce to sell cat products. Built with Laravel, docker and bootstrap.
+- <a href="https://github.com/Takeshi-mi/kitty-cats-ecommerce" target="_blank">Kitty Cats: </a>E-commerce to sell cat products. Built with Laravel, docker and bootstrap.
 - <a href="https://magechatbots.vercel.app/" target="_blank">Mage chatbots web Site</a>: A website to promote my chatbot business. It began as a freelance, and now is a baby startup. 🤖🚀
 - <a href="https://github.com/Takeshi-mi/TK-News-App-de-Noticias" target="_blank">TK News</a>: A mobile app for publish news, developed with Kotlin and connected at Firebase. 📱
 - <a href="https://github.com/Takeshi-mi/Plataforma-SOMA" target="_blank">SOMA plataform</a>: A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling. ♻
