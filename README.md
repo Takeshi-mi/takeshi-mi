@@ -27,14 +27,15 @@ My name is Takeshi Miura, and I am a student of Analysis and Systems Development
 
 ## Projects
 Here are some of the projects I've been working on:
+- <a href="https://ia.iesgo.edu.br" target="blank">IESGO IA</a>: AI Agents Plataform for IESGO.
+- <a href="https://meyje.com.br" target="_blank">MEYJE web Site</a>: A website to promote my business. It began as a freelance, and now is a solid business. 🤖🚀
 - <a href="https://takeshi-mi.github.io/VibraGuide/" target="blank">VibraGuide</a>: The vibration guide to locate our games. Accessibility tool for the deaf
 - <a href="https://github.com/Takeshi-mi/kitty-cats-ecommerce" target="_blank">Kitty Cats: </a>E-commerce to sell cat products. Built with Laravel, docker and bootstrap.
-- <a href="https://magechatbots.vercel.app/" target="_blank">Mage chatbots web Site</a>: A website to promote my chatbot business. It began as a freelance, and now is a baby startup. 🤖🚀
 - <a href="https://github.com/Takeshi-mi/TK-News-App-de-Noticias" target="_blank">TK News</a>: A mobile app for publish news, developed with Kotlin and connected at Firebase. 📱
 - <a href="https://github.com/Takeshi-mi/Plataforma-SOMA" target="_blank">SOMA plataform</a>: A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling. ♻
 - <a href="https://github.com/Takeshi-mi/AppDeMobilidadeUrbana" target="_blank">Mobilidade Urbana App</a>: A project to learn concepts about OOA (object – Oriented Analysis).
 You can explore more projects on my profile and check out the source code, contribute, or provide feedback.
-- <a href="https://takeshi-mi.github.io/site-jaguaras/" target="_blank">Jaguaras Band web site</a>: A website for my band, where I am the guitarist. 🎸
+- <a href="https://takeshi-mi.github.io/site-jaguaras/" target="_blank">Jaguaras Band web site</a>: One of my first projects...A website for my band, where I am the guitarist. 🎸
 
 
 ## Skills
