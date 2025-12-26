@@ -1,12 +1,12 @@
 ![LinkedIn Banner](https://github.com/user-attachments/assets/acc3affd-57c6-4151-829e-18a2ec93f6f2)
 
 ### Hi there, I'm Takeshi Miura 👋
-**Software Developer | Entrepreneur | AI Automation Specialist**
+**Software Developer | Entrepreneur | AI Automation**
 
 I am a Systems Analyst and award-winning entrepreneur passionate about turning code into business solutions. Currently, my main focus is **building AI Agents**, **automating workflows (n8n)**, and architecting scalable **SaaS products**.
 
 ## 🚀 About Me
-- 🏆 **Award-Winning Entrepreneur:** Winner of **AgroStartup Goiás** (1st Place), recognized by **Sebrae** and **Senar**.
+- 🏆 **Award-Winning Entrepreneur:** Winner of **AgroStartup Goiás** (1st Place), Startup Day, Maratona de Negócios (Campus Party) and recognized by **Sebrae** and **Senar**.
 - 🤖 **AI Focus:** Specialized in building autonomous agents and integrating LLMs into business processes.
 - 🎓 **Education:** Graduated in Analysis and Systems Development at [Federal Institute of Goiás (IFG)](https://www.ifg.edu.br/).
 - 💼 **Founder:** Leading tech solutions at **Meyje**.
