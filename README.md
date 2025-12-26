@@ -35,6 +35,10 @@ I am a Systems Analyst and award-winning entrepreneur passionate about turning c
 ### 🎓 Academic Journey & Creative Experiments
 *Projects from my graduation and personal labs.*
 
+- **[Arqueologia Formosa](https://arqueologiaformosa.com.br)** 🏺
+  > **B.Sc. Thesis (TCC) | 🏆 Grade 10/10**
+  > A digital heritage platform to preserve my city's history. Developed with **Next.js** on a **JAMstack & Serverless** architecture. This complex project required mastering 3D modeling and Unreal Engine concepts to deliver an immersive experience.
+  
 - **[Jaguaras Band Website](https://takeshi-mi.github.io/site-jaguaras/)** 🎸
   > One of my first web projects! A dedicated site for the band where I play guitar.
 
