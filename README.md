@@ -1,64 +1,104 @@
-
-
-<!--
-**Takeshi-mi/takeshi-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![LinkedIn Banner](https://github.com/user-attachments/assets/acc3affd-57c6-4151-829e-18a2ec93f6f2)
 
-### Hi there 👋
-My name is Takeshi Miura, and I am a student of Analysis and Systems Development at the Federal Institute of Goiás. This is my GitHub space where I share projects, code, and learnings related to my academic and professional journey.
+### Hi there, I'm Takeshi Miura 👋
+**Software Developer & Entrepreneur**
 
-## About Me
+I am a graduated Systems Analyst and an award-winning entrepreneur passionate about turning code into business solutions. My journey involves building scalable architectures and innovative products in the tech and agro-sectors.
 
-- 👨‍🎓 Student of Analysis and Systems Development at [Federal Institute of Goiás](https://www.ifg.edu.br/).
-- 💖 Passionate about programming and technology.
-- 💼 Seeking opportunities to learn and grow in the field of software development.
+## 🚀 About Me
+- 🏆 **Award-Winning Entrepreneur:** Winner of **AgroStartup Goiás** (1st Place), recognized by **Sebrae** and **Senar**.
+- 🎓 **Education:** Graduated in Analysis and Systems Development at [Federal Institute of Goiás (IFG)](https://www.ifg.edu.br/).
+- 💼 **Professional Focus:** Developing SaaS platforms, AI Agents, and scalable web solutions.
+- 💡 **Passion:** I love bridging the gap between complex technology and real-world problems.
 
-## Projects
-Here are some of the projects I've been working on:
-- <a href="https://ia.iesgo.edu.br" target="blank">IESGO IA</a>: AI Agents Plataform for IESGO.
-- <a href="https://meyje.com.br" target="_blank">MEYJE web Site</a>: A website to promote my business. It began as a freelance, and now is a solid business. 🤖🚀
-- <a href="https://takeshi-mi.github.io/VibraGuide/" target="blank">VibraGuide</a>: The vibration guide to locate our games. Accessibility tool for the deaf
-- <a href="https://github.com/Takeshi-mi/kitty-cats-ecommerce" target="_blank">Kitty Cats: </a>E-commerce to sell cat products. Built with Laravel, docker and bootstrap.
-- <a href="https://github.com/Takeshi-mi/TK-News-App-de-Noticias" target="_blank">TK News</a>: A mobile app for publish news, developed with Kotlin and connected at Firebase. 📱
-- <a href="https://github.com/Takeshi-mi/Plataforma-SOMA" target="_blank">SOMA plataform</a>: A desktop app developed with Java. The SOMA platform is a sustainability solution that connects waste producers with waste buyers. It is like a 'Tinder for recycling. ♻
-- <a href="https://github.com/Takeshi-mi/AppDeMobilidadeUrbana" target="_blank">Mobilidade Urbana App</a>: A project to learn concepts about OOA (object – Oriented Analysis).
-You can explore more projects on my profile and check out the source code, contribute, or provide feedback.
-- <a href="https://takeshi-mi.github.io/site-jaguaras/" target="_blank">Jaguaras Band web site</a>: One of my first projects...A website for my band, where I am the guitarist. 🎸
+---
 
+## 💻 Featured Projects
 
-## Skills
-[![Takeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeshi-mi)](https://github.com/takeshi-mi/github-readme-stats) 
+Here are some of the projects I've been working on, ranging from award-winning startups to freelance solutions:
 
-- Programming Languages: PHP, Java, Kotlin, Python
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-mi&layout=compact)
-- Frameworks and Libraries: Laravel, Bootstrap, Android JetPack, Firebase
-- Database: PostgresSQL, MySQL, Firebase
-- Other skills: Docker, Leadership, Organization, Project Management (Kanban), Team Collaboration, Git Version Control, Intermediate-level English (B2).
+## 🚀 Projects
 
-## Connect with me:
--  <a href="www.linkedin.com/in/e-takeshimiura" target="blank"><img align="center" src="https://www.svgrepo.com/show/205292/linkedin.svg" alt="" height="30" width="40" /></a> LinkedIn: [https://www.linkedin.com/in/e-takeshimiura/](https://www.linkedin.com/in/e-takeshimiura/)
--  <a href="https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg" target="blank"><img align="center" src="https://www.svgrepo.com/show/205306/youtube.svg" alt="" height="30" width="40" /></a> Youtube: [https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg](https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg)
--  <img align='center' src="https://www.svgrepo.com/show/243092/gmail.svg" alt="gmal-icon" height="30" width="40"/> Email:&nbsp;&nbsp;&nbsp;&nbsp; e.takeshi.miura@gmail.com 
+### 💼 Professional Ventures & AI Solutions
+*Current Focus: AI Agents, n8n Automations, and SaaS Architecture.*
 
-- <a href="https://gitlab.com/e.takeshi.miura" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/349377/gitlab.svg"  height="30" width="40" /></a> GitLab: [https://gitlab.com/e.takeshi.miura](https://gitlab.com/e.takeshi.miura)
-  
-    Feel free to explore my repositories, ask questions, or get in touch with me for any collaboration or opportunities. I'm always eager to learn and collaborate with fellow technology enthusiasts.
+- **[RuralZap](https://www.ruralzap.com.br/)** 🏆
+  > **AgroTech SaaS | 1st Place AgroStartup Goiás**
+  > A robust communication platform connecting the rural ecosystem. Award-winning solution recognized by Sebrae/Senar for solving real pains in the agricultural sector.
 
-Thank you for visiting my GitHub profile! 😄🚀
+- **[IESGO IA](https://ia.iesgo.edu.br)** 🤖
+  > **AI Agents Platform**
+  > An educational platform powered by **LangChain.js** and LLMs, developed to assist students and faculty at IESGO with intelligent automated responses.
 
+- **[MEYJE Website](https://meyje.com.br)** 🚀
+  > **Business & Tech Solutions**
+  > My software house's official portal. What started as freelance work has matured into a solid business venture delivering web solutions and automation.
 
+> 🔗 **Check out more professional cases at my company portfolio:** [meyje.com.br](https://meyje.com.br)
 
+---
 
+### 🎓 Academic Journey & Creative Experiments
+*A collection of projects developed during my graduation and personal hobbies. They represent my learning curve, personality, and passion for creating things.*
+
+- **[Jaguaras Band Website](https://takeshi-mi.github.io/site-jaguaras/)** 🎸
+  > One of my first web projects! A dedicated site for the band where I play guitar. Shows my creative side and early frontend skills.
+
+- **[Kitty Cats E-commerce](https://github.com/Takeshi-mi/kitty-cats-ecommerce)** 🐱
+  > A full-stack e-commerce simulation for cat products. Built to master **Laravel, Docker, and Bootstrap** workflows.
+
+- **[VibraGuide](https://takeshi-mi.github.io/VibraGuide/)** 🧏
+  > **Accessibility Tool.** A haptic vibration guide designed to help deaf users locate objectives in games/virtual environments.
+
+- **[SOMA Platform](https://github.com/Takeshi-mi/Plataforma-SOMA)** ♻️
+  > **Desktop App (Java).** A "Tinder for recycling" that connects waste producers with buyers to promote sustainability.
+
+- **[TK News](https://github.com/Takeshi-mi/TK-News-App-de-Noticias)** 📱
+  > **Mobile App (Kotlin).** A news aggregator app integrated with Firebase, built to study native Android development.
+---
+
+## 🛠 Skills & Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=takeshi-mi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=takeshi-mi&theme=radical"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-mi&layout=compact&theme=radical" alt="Top Langs" height="160em"/>
+</div>
+
+<br/>
+
+**Tech Stack:**
+* **Languages:** JavaScript/TypeScript, PHP, Java, Kotlin, Python
+* **Frameworks:** Nest.js, Next.js, Laravel, Android JetPack
+* **Databases:** PostgreSQL, MySQL, Firebase
+* **DevOps & Tools:** Docker, CI/CD, Git, Portainer
+* **Soft Skills:** Leadership, Project Management (Kanban), Entrepreneurship.
+---
+
+## 📫 Connect with me
+
+Feel free to reach out for collaborations, business inquiries, or just to say hi!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/e-takeshimiura/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:e.takeshi.miura@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://gitlab.com/e.takeshi.miura" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+  <a href="https://www.youtube.com/channel/UC7XzYj7sbyrPeYWtur4ZZpg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
+Thank you for visiting my profile! 😄🚀
