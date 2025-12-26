@@ -55,7 +55,9 @@ I am a Systems Analyst and award-winning entrepreneur passionate about turning c
 ## 🛠 Engineering Stats
 
 > ⚠️ **Note:** These stats currently reflect only my open-source and personal contributions on GitHub. A significant portion of my professional work (including client projects and proprietary SaaS code) is hosted in **private repositories**, **GitLab**, and my **company's organization**, which are not tracked here.
-
+[![Takeshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=takeshi-mi)](https://github.com/takeshi-mi/github-readme-stats) 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi-mi&layout=compact)
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takeshi-mi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
